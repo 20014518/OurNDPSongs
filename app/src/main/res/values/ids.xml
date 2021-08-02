@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etTitle" type="id" />
+    <item name="etSingers" type="id" />
+    <item name="etYear" type="id" />
+    <item name="ratingBar" type="id" />
+    <item name="btnInsertSong" type="id" />
+    <item name="btnShowList" type="id" />
+    <item name="etID" type="id" />
+    <item name="ratingBar3" type="id" />
+    <item name="btnUpdate" type="id" />
+    <item name="btnDelete" type="id" />
+    <item name="btnCancel" type="id" />
+    <item name="textViewSong" type="id" />
+    <item name="textViewSingers" type="id" />
+    <item name="textViewYear" type="id" />
+    <item name="imageViewnewsong" type="id" />
+    <item name="ratingBar2" type="id" />
+</resources>
